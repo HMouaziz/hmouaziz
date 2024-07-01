@@ -15,7 +15,7 @@
 </p>
 
 <h3 align="left">Things I'd like to learn</h3>
-<p>Reading the dragon book and building my own compiler.</p>
+<p>Read the dragon book and building my own compiler.</p>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg" alt="zig" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
