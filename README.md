@@ -1,39 +1,31 @@
 <h1 align="center">Hi, I'm Halim</h1>
 
-<p>I've been obsessed with the software engineering world ever since I built my first program, <a href="https://github.com/HMouaziz/proxytester">"ProxyTester"</a> in Python. Since then, I've become proficient in JavaScript and acquired a strong foundation in React. I have recently adopted TypeScript and am enthusiastically learning Go, a language that has truly captivated me.</p>
+<p>I like software that gives structure to messy work.</p>
 
-<p>I'm currently on the lookout for a role in backend web development, ideally writing Go or TypeScript/JavaScript. I'd especially love to work at a startup on a tight-knit team where I can make an impact quickly. If you're hiring, <a href="https://www.linkedin.com/in/hmouaziz/">let's chat!</a></p>
+<p>The projects I keep coming back to are usually not "apps" in the normal sense. They are tools, systems, or little frameworks for making a workflow easier to reason about: a CLI that keeps parallel development tidy, a design system for turning dense aircraft notes into readable simulator references, scripts that automate a game, or some overbuilt thing that started because I got annoyed.</p>
 
-<h3 align="left">What I’m currently working on</h3>
+<p>I care about architecture, but not in the abstract diagram sense. I care about whether the shape of a system makes the next change easier or harder. Where does state live? What should be explicit? What should be automated? What needs a human in the loop? What will still make sense when I come back to it in three months?</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hmouaziz&repo=GoSysMon&theme=transparent&showicons=true)](https://github.com/hmouaziz/gosysmon) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hmouaziz&repo=Backend-Technology-Exploration-And-Analysis&theme=transparent&showicons=true)](https://github.com/hmouaziz/Backend-Technology-Exploration-And-Analysis) 
+<h3 align="left">The kind of software I like</h3>
 
-<h3 align="left">What I’m currently learning</h3>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
-</p>
+<ul>
+  <li>Small tools that remove friction from local work</li>
+  <li>Interfaces for dense or technical information</li>
+  <li>Systems with clear boundaries and boring, useful rules</li>
+  <li>CLIs, scripts, and automation that make repeated work less fragile</li>
+  <li>Projects where the hard part is not the code, but the shape of the workflow</li>
+</ul>
 
-<h3 align="left">Things I'd like to learn</h3>
-<p>Read the dragon book and building my own compiler.</p>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg" alt="zig" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
-</p>
+<h3 align="left">Current things</h3>
 
-<h3 align="left">Languages and Tools</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/>
-</p>
+<p><a href="https://github.com/HMouaziz/nox-cli"><strong>nox-cli</strong></a> is where I am exploring local developer workflows: isolated git sessions, parallel work, and making it harder to trip over your own environment.</p>
+
+<p><a href="https://github.com/HMouaziz/kneeboard-design-system"><strong>kneeboard-design-system</strong></a> is where I am exploring information design: taking messy aircraft reference material and turning it into structured, readable simulator kneeboard packs.</p>
+
+<p>They look unrelated, but they come from the same place: I like building systems that make complicated tasks feel more controlled.</p>
+
+<h3 align="left">What I'm learning / poking at</h3>
+
+<p>I keep trying to find excuses to use Go.</p>
+
+<p>I am also spending more time with Rust, local-first tooling, AI-assisted development workflows, simulation automation, and better ways to structure state-heavy interfaces.</p>
